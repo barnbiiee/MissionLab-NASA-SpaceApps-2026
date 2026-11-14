@@ -1,3 +1,11 @@
+Play MissionLab
+
+Try our interactive CubeSat mission design game here:
+
+https://missionlab-nasa-spaceapps-2026-krtj7ai5ekc5eme9vkv2im.streamlit.app/
+
+For the best experience, we recommend opening the game in Google Chrome.
+
 # MissionLab — Build Your CubeSat
 
 An educational **Space Mission Design Game** prototype for the 2026 NASA Space Apps Challenge. Players choose a science instrument, solar panels, communications system and rideshare launch vehicle. They must satisfy **budget, mass, power, and data-downlink** constraints. The game explains success/failure and provides an illustrative score.

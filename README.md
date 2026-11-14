@@ -39,18 +39,4 @@ An educational **Space Mission Design Game** prototype for the 2026 NASA Space A
 
 **Scope intentionally excluded:** Real orbital dynamics, trajectory optimization, multiplayer, real launch pricing, geolocation, physical reliability prediction. This is a minimal educational game, not engineering advice.
 
-## NASA event / preparation note
 
-The public NASA Space Apps website lists the 2026 hackathon as November 14–15 with project submission opening November 14 at 9 AM and closing November 15 at 11:59 PM local time. **Check the official rules for whether work prepared before the event is eligible as a competition submission.** Use this scaffold as practice/reference and make the actual competition project in accordance with the organizers' rules. Do not state that work was completed during the hackathon unless that is true.
-
-## Publish / submission checklist
-
-- [ ] Confirm eligibility and pre-event-work rules with organizers
-- [ ] Both team members run and understand the code
-- [ ] Test failed and successful builds
-- [ ] Update and honestly document what was built during the event
-- [ ] Add team member contributions
-- [ ] Create public repository (e.g. GitHub) if allowed
-- [ ] Record a short original demonstration, if required
-- [ ] Put project link, real sources, and properly licensed assets in submission
-- [ ] Submit before the deadline through your team's official project page
